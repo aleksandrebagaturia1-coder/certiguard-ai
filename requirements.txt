@@ -1,0 +1,6 @@
+streamlit
+pypdf
+openai
+PyMuPDF
+fpdf
+Pillow
